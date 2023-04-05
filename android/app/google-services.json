@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696162402950",
+    "project_id": "feelings-a5451",
+    "storage_bucket": "feelings-a5451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696162402950:android:650830f806c8866a88c707",
+        "android_client_info": {
+          "package_name": "com.example.feelings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696162402950-rg5l9te5g9t12tq6eujtp4a51a5kfi4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnVv43KHXUTfyGD_W_RV2Pf9HkbuALX4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696162402950-rg5l9te5g9t12tq6eujtp4a51a5kfi4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
